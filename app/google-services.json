@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082546363882",
+    "project_id": "konnect-22e56",
+    "storage_bucket": "konnect-22e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082546363882:android:8ba39f191279aa739da693",
+        "android_client_info": {
+          "package_name": "com.example.konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082546363882-einjktplmkogi9cpt694ik41kvp6flmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEHZ6sbJMY4gWkyQKZrXPB638sSRiXITY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082546363882-einjktplmkogi9cpt694ik41kvp6flmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
